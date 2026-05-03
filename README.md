@@ -5,7 +5,7 @@
 
 **Autor:** Jorge Giovanni Ramírez Moraga  
 **Versión:** 2.0 (Abril 2026)  
-**DOI:** [Inserta tu DOI aquí]
+**DOI:** https://doi.org/10.5281/zenodo.19952089
 
 ---
 
